@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+# Data and model weights (downloaded or provided separately)
+coin_dataset/
+*.zip
+data/
+*.pth
